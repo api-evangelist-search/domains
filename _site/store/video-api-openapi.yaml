@@ -1,0 +1,206 @@
+- name: Open APIdocs.tuya.com
+  url: 'https://docs.tuya.com/en/openapi/openapi_index.html'
+  pull_url: 0
+  pull_domain: 0
+- name: OpenAPI
+  url: 'https://www.findbestopensource.com/product/microsoft-openapi-net'
+  pull_url: 0
+  pull_domain: 0
+- name: API Design and Fundamentals of Google Cloud's Apigee API
+  url: 'https://www.coursera.org/learn/api-design-apigee-gcp'
+  pull_url: 0
+  pull_domain: 0
+- name: 'Introduction to OpenAPI LinkedIn Learning, formerly'
+  url: >-
+    https://www.linkedin.com/learning/building-and-securing-restful-apis-in-asp-dot-net-core-2/introduction-to-openapi
+  pull_url: 0
+  pull_domain: 0
+- name: News APIA JSON API for live news and blog articles
+  url: 'https://newsapi.org/'
+  pull_url: 0
+  pull_domain: 0
+- name: Documenting an ASP.NET Core API with OpenAPI / Swagger
+  url: 'https://avxhm.is/ebooks/naag33405.html'
+  pull_url: 0
+  pull_domain: 0
+- name: Get involved with the OpenAPI Initiative  IBM Developer
+  url: 'https://developer.ibm.com/videos/get-involved-with-the-openapi-initiative/'
+  pull_url: 0
+  pull_domain: 0
+- name: v3 OpenAPI Modeling Intro on Vimeo
+  url: 'https://vimeo.com/246844597'
+  pull_url: 0
+  pull_domain: 0
+- name: Debugging the Steamworks API (Steamworks Documentation)
+  url: 'https://partner.steamgames.com/doc/sdk/api/debugging'
+  pull_url: 0
+  pull_domain: 0
+- name: DoorBird Door Bell Video System with open APICoffee
+  url: >-
+    https://forum.universal-devices.com/topic/18652-doorbird-door-bell-video-system-with-open-api/
+  pull_url: 0
+  pull_domain: 0
+- name: Supercharging ASP.NET Core API with OData OData
+  url: >-
+    https://devblogs.microsoft.com/odata/supercharging-asp-net-core-api-with-odata/
+  pull_url: 0
+  pull_domain: 0
+- name: Swagger Editor
+  url: 'http://editor.swagger.io/'
+  pull_url: 0
+  pull_domain: 0
+- name: Centurylink OpenAPI ServicesLevel 3 Communications
+  url: 'https://developer.level3.com/documentation'
+  pull_url: 0
+  pull_domain: 0
+- name: API Explorer
+  url: 'http://api.huawei.com/apiexplorer/api/classify'
+  pull_url: 0
+  pull_domain: 0
+- name: Solutions OpenAPItorocloud.com
+  url: 'https://www.torocloud.com/solutions/openapi'
+  pull_url: 0
+  pull_domain: 0
+- name: Videos insert YouTube Data API | Google Developers
+  url: 'https://developers.google.com/youtube/v3/docs/videos/insert'
+  pull_url: 0
+  pull_domain: 0
+- name: API Library Bloomberg Professional Services
+  url: 'https://www.bloomberg.com/professional/support/api-library/'
+  pull_url: 0
+  pull_domain: 0
+- name: Apigee API Management  Index
+  url: 'https://wilsonmar.github.io/apigee/'
+  pull_url: 0
+  pull_domain: 0
+- name: ASP.NET Web API With Swaggerc-sharpcorner.com
+  url: 'https://www.c-sharpcorner.com/article/asp-net-web-api-with-swagger/'
+  pull_url: 0
+  pull_domain: 0
+- name: 'JSON:API  A specification for building APIs in JSON'
+  url: 'https://jsonapi.org/'
+  pull_url: 0
+  pull_domain: 0
+- name: LTI Resource Search Service OpenAPI Definition
+  url: >-
+    https://www.imsglobal.org/sites/default/files/spec/lti-rs/v1p0/openapi/rsservicev1p0_openapiv1p0.html
+  pull_url: 0
+  pull_domain: 0
+- name: Diving into OpenAPIDEV Community
+  url: 'https://dev.to/steelwolf180/diving-into-openapi-3k2g'
+  pull_url: 0
+  pull_domain: 0
+- name: DocumentationEvernote Developers
+  url: 'http://dev.evernote.com/doc/'
+  pull_url: 0
+  pull_domain: 0
+- name: 'JSON:API  Examples'
+  url: 'https://jsonapi.org/examples/'
+  pull_url: 0
+  pull_domain: 0
+- name: Communicating with NetEco through an openAPI user
+  url: >-
+    https://forum.huawei.com/enterprise/en/Communicating-with-NetEco-through-an-openAPI-user/thread/512431-100027
+  pull_url: 0
+  pull_domain: 0
+- name: Light OpenAPI 3.0 Petstoredoc.networknt.com
+  url: 'https://doc.networknt.com/tutorial/rest/openapi/petstore/'
+  pull_url: 0
+  pull_domain: 0
+- name: 'Custom Connector, Microsoft (Graph) OpenAPI (2/3'
+  url: >-
+    https://powerusers.microsoft.com/t5/General-Discussion/Custom-Connector-Microsoft-Graph-OpenAPI-2-3-Extension-for/td-p/140493
+  pull_url: 0
+  pull_domain: 0
+- name: 'SAP API Business Hub Build Apps, Extensions and'
+  url: 'http://api.sap.com/'
+  pull_url: 0
+  pull_domain: 0
+- name: OpenAPI Specification Salesforce IoT REST API Getting
+  url: >-
+    https://developer.salesforce.com/docs/atlas.en-us.api_iot.meta/api_iot/intro_swagger_file.htm#!
+  pull_url: 0
+  pull_domain: 0
+- name: Building a Node.js service using the API-first approach
+  url: >-
+    https://developers.redhat.com/blog/2019/01/14/building-a-node-js-service-using-the-api-first-approach/
+  pull_url: 0
+  pull_domain: 0
+- name: Set Up Client-Side SSL Authentication in API Gateway
+  url: >-
+    https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-setup-ssl-certificate.html
+  pull_url: 0
+  pull_domain: 0
+- name: autorestOpenAPI (f
+  url: 'https://www.findbestopensource.com/product/azure-autorest'
+  pull_url: 0
+  pull_domain: 0
+- name: Instantly Generate OpenAPI 3.0 Definitions with Swagger
+  url: >-
+    https://smartbear.com/news/news-releases/instantly-generate-openapi-3-0-definitions/
+  pull_url: 0
+  pull_domain: 0
+- name: Are there sample OpenAPI file for Azure Functions
+  url: >-
+    https://powerusers.microsoft.com/t5/General-Flow-Discussion/Are-there-sample-OpenAPI-file-for-Azure-Functions-to-creste/td-p/35039
+  pull_url: 0
+  pull_domain: 0
+- name: Light OpenAPI Converter
+  url: 'https://www.networknt.com/tool/openapi-converter/'
+  pull_url: 0
+  pull_domain: 0
+- name: API File ExtensionWhat is an .api file and how do I
+  url: 'https://fileinfo.com/extension/api'
+  pull_url: 0
+  pull_domain: 0
+- name: OpenAPI (Swagger 2.0) YAML generation using API Connect
+  url: >-
+    https://vmacwrites.wordpress.com/2017/08/24/openapi-swagger-2-0-yaml-generation-using-api-connect/
+  pull_url: 0
+  pull_domain: 0
+- name: Package com.videogo.openapiYs7
+  url: 'https://open.ys7.com/doc/en/android/com/videogo/openapi/package-summary.html'
+  pull_url: 0
+  pull_domain: 0
+- name: SOAP vs REST APIs Which Is Right For You? SoapUI
+  url: 'https://www.soapui.org/learn/api/soap-vs-rest-api.html'
+  pull_url: 0
+  pull_domain: 0
+- name: Generating the API reference for the Qlik Sense Repository
+  url: >-
+    https://help.qlik.com/en-US/sense-developer/April2019/Subsystems/RepositoryServiceAPI/Content/Sense_RepositoryServiceAPI/RepositoryServiceAPI-Access-OpenAPI-Spec.htm
+  pull_url: 0
+  pull_domain: 0
+- name: CloudConvertAPI Documentation
+  url: 'https://cloudconvert.com/api/v1'
+  pull_url: 0
+  pull_domain: 0
+- name: 'API Platform 2.4 MongoDB, Elasticsearch, Mercure, OpenAPI'
+  url: 'https://dunglas.fr/2019/01/api-platform-2-4/'
+  pull_url: 0
+  pull_domain: 0
+- name: Choosing a Great API Spec Saves Time and HassleMuleSoft
+  url: 'https://www.mulesoft.com/resources/api/api-spec'
+  pull_url: 0
+  pull_domain: 0
+- name: OpenAPI ArchivesNexmo Developer Blog
+  url: 'https://www.nexmo.com/blog/tag/openapi/'
+  pull_url: 0
+  pull_domain: 0
+- name: Data Science Tutorial Introduction to Using APIs in
+  url: 'https://www.dataquest.io/blog/python-api-tutorial/'
+  pull_url: 0
+  pull_domain: 0
+- name: Dont write your Web API Client code  youre wasting your
+  url: >-
+    https://medium.com/@nuno.caneco/dont-write-your-web-api-client-code-6f1dd36263b5
+  pull_url: 0
+  pull_domain: 0
+- name: Building APIs with Swagger and the OpenAPI Specification
+  url: 'https://carab.in/building-apis-swagger-openapi-specification/'
+  pull_url: 0
+  pull_domain: 0
+- name: OpenAPI-led Development at Nexmo
+  url: 'https://www.nexmo.com/blog/2018/11/05/openapi-led-development-at-nexmo/'
+  pull_url: 0
+  pull_domain: 0

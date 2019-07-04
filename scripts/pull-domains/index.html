@@ -1,0 +1,90 @@
+---
+layout: page
+title: 'Bing Search'
+---
+
+<h1>Bing Search</h1>
+This makes a search request to Bing API, and saves the results to the /store within this GitHub repository.
+
+<ul style="width: 100%;" id="results"></ul>
+
+<script type="text/javascript">
+
+  var query = getUrlVar('query');
+  var offset = getUrlVar('offset');
+  var bingToken = getUrlVar('bingToken');
+  var githubToken = getUrlVar('githubToken');
+  var org = '{{ site.org }}';
+  var repo = '{{ site.repo }}';
+
+  var saveFileName = query.replace(/\//g,'-');
+  saveFileName = saveFileName.replace(/:/g,'-');
+  saveFileName = saveFileName.replace(/,/g,'');
+  saveFileName = saveFileName.replace(/ /g,'-');
+  saveFileName = saveFileName.toLowerCase();
+
+  var saveFile = saveFileName + ".yaml";
+
+  function getHostName(url) {
+      var match = url.match(/:\/\/(www[0-9]?\.)?(.[^/:]+)/i);
+      if (match != null && match.length > 2 && typeof match[2] === 'string' && match[2].length > 0) {
+      return match[2];
+      }
+      else {
+          return null;
+      }
+  }
+
+ var api_url = 'https://api.github.com/repos/{{ site.org }}/{{ site.repo }}/contents/store/' + saveFile;
+ console.log(api_url);
+
+	var response = $.ajax({
+    url: api_url,
+    method: "get",
+    headers: {
+     'Authorization':'token ' + githubToken,
+     'Accept':'application/vnd.github.v3+json'
+    },
+    success:function(response){
+      //console.log(response);
+
+      var api_url_2 = 'https://api.github.com/repos/{{ site.org }}/{{ site.repo }}/contents/store/' + saveFile;
+      console.log(api_url_2);
+
+     	var response2 = $.ajax({
+         url: api_url,
+         method: "get",
+         headers: {
+          'Authorization':'token ' + githubToken,
+          'Accept':'application/vnd.github.v3+json'
+         },
+         success:function(response2){
+           //console.log(response);
+
+           var content = response2.content;
+           var sha = response2.sha;
+           content = content.replace(/\r\n/g, '');
+           store = atob(content);
+           store = jsyaml.load(store);
+           console.log(store);
+
+           for (i = 0; i < store.length; i++) {
+
+             console.log(store[i]);
+
+           }
+
+        },
+        error: function(XMLHttpRequest, textStatus, errorThrown) {
+
+        }
+      });
+
+   },
+   error: function(XMLHttpRequest, textStatus, errorThrown) {
+
+   }
+ });
+
+
+</script>
